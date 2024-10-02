@@ -47,6 +47,13 @@ Ensure you have the following dependencies installed:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vatsal2251/vggface-svm-celebrity-recognition.git
+   git clone [https://github.com/Vatsal2251/vggface-svm-celebrity-recognition.git](https://github.com/Vatsal2251/Celebrity-Face-Recognition---VGGFace-SVM.git)
    cd vggface-svm-celebrity-recognition
+   
+# Run the notebook:
+# 1. Open `vggface-svm.ipynb` in Jupyter or Google Colab.
+# 2. Follow the steps in the notebook to train the SVM and test it using the VGGFace embeddings.
+
+Results
+The project demonstrates the comparative performance between AWS Rekognition and the custom-built SVM classifier on VGGFace embeddings. Detailed results, including accuracy, precision, recall, and F1-score, are provided in the notebook.
 

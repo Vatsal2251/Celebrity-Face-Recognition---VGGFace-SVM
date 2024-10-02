@@ -9,7 +9,6 @@ This project explores a comparative study on celebrity recognition using AWS Rek
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project investigates the application of computer vision in identifying celebrities by leveraging pre-trained deep learning models and cloud-based APIs. Specifically, the VGGFace model is employed to extract embeddings from facial images, and a support vector machine (SVM) is used for classification. Additionally, AWS Rekognition is utilized to provide a comparative baseline for performance evaluation.

@@ -1,1 +1,1 @@
-# Celebrity-Face-Recognition---VGGFace-SVM
+# Celebrity-Face-Recognition using VGGFace-SVM
